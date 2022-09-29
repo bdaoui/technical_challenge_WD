@@ -1,4 +1,5 @@
 # technical_challenge_WD
+Soufiane Bdaoui 
 
 Technologies used: React, NodeJs, ExpressJS
 
